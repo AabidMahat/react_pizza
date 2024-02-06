@@ -4,7 +4,7 @@ Welcome to the React Pizza App! This app allows users to order delicious pizzas 
 
 ## Demo
 
-You can check out the live demo of the app [here](link-to-demo).
+You can check out the live demo of the app [here](https://aabid-react-pizza.vercel.app/).
 
 ## Features
 
@@ -30,5 +30,9 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd react-pizza-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
+
+## Demo
+
+1. App is deployed on Vercel
 
 
