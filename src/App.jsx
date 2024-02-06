@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Home from './features/UI/Home';
 import Error from './features/UI/Error';
-import Menu, { loader as menuLoader } from './features/Menu/Menu';
+import Menu, { loader as menuLoader } from './features/menu/Menu';
 import Cart from './features/cart/Cart';
 import CreateOrder, {
   action as createOrderAction,
